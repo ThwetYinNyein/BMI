@@ -3,8 +3,6 @@ from PIL import Image
 st.title('My BMI!')
 st.write('Thanks for using my app. You are pretty.')
 age=st.slider("Pick your age",1,100)
-#option=st.selectbox('Select your movie genre?',('Fantasy','Horror','Sci-fi','Romane','Comedy','Drama','Action','Thriller'))
-img=Image.open("headerpic.jpg")
 weight=st.number_input("Enter your weight in kgs")
 status=st.radio('Select your height status: ',('cms','meters','feet'))
 
