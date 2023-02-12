@@ -1,2 +1,2 @@
 # BMI
-Stream lit web app to calculate your BMI
+Beginner Streamlit project to build your own BMI calculator
