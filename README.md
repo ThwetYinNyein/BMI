@@ -1,2 +1,2 @@
 # BMI
-first_streamlit
+Stream lit web app to calculate your BMI
